@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.style{
+    background-color: rgba(21, 114, 221, 0.726);
+    width: 20%;
+    font-family:monospace;
+    font-size: medium;
+    margin: 2%;
+    color: #fff;
+    /* justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    float:inline-start;
+    flex-wrap: wrap;
+}
+
